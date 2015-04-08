@@ -1,0 +1,2 @@
+# proyectoMateCompu
+Auto-Organización Crítica
