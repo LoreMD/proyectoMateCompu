@@ -3,6 +3,8 @@ Auto-Organización Crítica
 
 
 Pila de arena de una dimensión
+
+
 Sea un arreglo unidimensional de L columnas de granos de arena con alturas hi. En cada columna definimos su pendiente local como
 si=hi−hi+1
 Definimos también la pendiente crítica sc: La pila es inestable si si>sc, para cualquier columna i.
